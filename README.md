@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hey, I'm Siddharth 👋
 
-<!--
-**Siddharth-ui2/Siddharth-ui2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Information Technology student at Maharaja Surajmal Institute (MSIT), Delhi.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages:** Java · C++ · Python · JavaScript · TypeScript
+
+**Technologies:** React · Docker · PostgreSQL · AWS · Git · REST APIs
+
+**Areas of Interest:** Full-Stack Development · Backend Engineering · Agentic AI · Cloud Computing
+
+### 🚀 What I'm Building
+
+- **Apex Arena:** A browser-based competitive racing simulator featuring real-time multi-agent racing, driver interactions, energy management, pit stops and live race analytics. Built with HTML, CSS and JavaScript.
+- **Agentic RAG System:** Exploring AI-powered retrieval systems using FastAPI, Qdrant, RQ and Gemini.
+
+### 🌱 Currently Exploring
+
+- Cloud technologies and deployment
+- Agentic AI
+- Backend engineering and system design
+
+### ⚡ A Little More About Me
+
+- 💻 Love experimenting with tech and building things just to see what I can create.
+- 🏋️ Gym enthusiast.
+- 🎧 Music is always playing, especially while coding.
+- 🍕 Certified foodie, always up for trying something new.
+
+### 🤝 Let's Connect
+
+Always open to interesting projects, collaboration, and learning from other developers.
